@@ -1,0 +1,13 @@
+{
+  'ResponseMetadata': {
+    'HTTPHeaders': {
+      'content-length': '376',
+      'x-amzn-requestid': '18335e5d-6018-11e6-bf76-797764a73fa1',
+      'date': 'Thu, 11 Aug 2016 23:05:28 GMT',
+      'content-type': 'text/xml'
+    },
+    'RequestId': '18335e5d-6018-11e6-bf76-797764a73fa1',
+    'HTTPStatusCode': 200
+  },
+  'DNSName': 'sample-load-balancer-5-1969189853.us-west-2.elb.amazonaws.com'
+}
